@@ -1,0 +1,36 @@
+.bg-green-whyte{
+    background-color: #BDDB7C;
+}
+
+.bg-brown-whyte{
+    background-color: #A88C64;
+}
+
+.bg-brown-black{
+    background-color: #76503B;
+}
+
+.w-15{
+    width: 15%;
+}
+
+.color-dark-green{
+    color: #546C1F;
+}
+
+@media (max-width: 911px) {
+    .responsivo{
+        width: 45%;
+    }
+}
+
+@media(max-width:768px){
+    .responsivo{
+        width: 80%;
+    }
+
+    .responsivo-button{
+        width: 30%;
+    }
+}
+

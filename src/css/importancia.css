@@ -1,0 +1,18 @@
+.secao-energia {
+    background-color: var(--bege);
+}
+
+.imagem-energia {
+    max-width: 100%;
+    height: auto;
+}
+
+.titulo-secao {
+    color: #4a7c59;
+    margin-bottom: 1rem;
+}
+
+.texto-secao {
+    color: #555;
+    line-height: 1.6;
+}

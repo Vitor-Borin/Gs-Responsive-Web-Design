@@ -1,0 +1,37 @@
+.col-md-4 img {
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.bg-rodape {
+    background-color: #81AA81;
+}
+
+footer .contato a {
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+footer .contato a:hover {
+    transform: scale(1.1); 
+}
+
+.mapa-link:hover {
+    text-decoration: underline !important;
+}
+
+footer .redes {
+    transition: transform 0.3s ease;
+    display: inline-block;
+}
+
+footer .redes:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 991px) {
+    .logo {
+        width: 200px;
+    }
+}

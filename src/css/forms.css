@@ -1,0 +1,40 @@
+.bg-eco {
+    background-color: var(--bege);
+    min-height: 100vh;
+}
+
+.img-fluid {
+    width: 80%;
+    margin-right: 30px;
+}
+
+.form-container {
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.form-control:focus {
+    border-color: #8CA556;
+    box-shadow: 0 0 0 0.25rem rgba(132, 169, 140, 0.25);
+}
+
+.form-label {
+    color: #8CA556;
+}
+
+.btn-enviar {
+    background-color: #8CA556;
+}
+
+.btn-enviar:hover {
+    background-color: #6A7F3D;
+}
+
+@media (max-width: 768px) {
+    .form-container {
+        max-width: 100%;
+    }
+}

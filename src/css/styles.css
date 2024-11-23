@@ -1,0 +1,15 @@
+:root {
+    --verde-escuro: #546C1F;
+    --verde-claro: #BDDB7C;
+    --verde-agua:#81AA81;
+    --bege: #F4F0E0;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}

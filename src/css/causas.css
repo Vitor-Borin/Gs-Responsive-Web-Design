@@ -1,0 +1,27 @@
+body{
+    background-color: var(--bege);
+}
+
+.bg-color-green{
+    background-color: #74A800;
+}
+.bg-color-green-whyte{
+    background-color: #8CA556;
+}
+
+.bg-color-brown{
+    background-color: #76503B;
+}
+
+.bg-color-brown-whyte{
+    background-color: #A88C64;
+}
+.color-dark-green{
+    color: #546C1F;
+}
+
+@media(max-width:768px){
+    .col-5{
+        width: 90%;
+    }
+}
